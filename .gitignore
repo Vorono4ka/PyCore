@@ -1,0 +1,9 @@
+/packets/Messages/Client/
+/packets/Messages/Server/
+/.idea/
+/venv/
+
+/utils/_tweetnacl.cp38-win_amd64.pyd
+/utils/crypto.py
+/ohd27.dat
+*.pyc
